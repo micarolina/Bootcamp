@@ -12,6 +12,11 @@ print(lastname)
 print(age)
 
 print(3+2)
-num1 = 12
-num2 = 3
+print(nombre+apellido)
+print('Mi nombre es ' + nombre + ', y tengo', edad)
+
+num1 = int(input('Ingresa el primer numero'))
+num2 = 12
 print(num1+num2)
+
+
